@@ -1,0 +1,4 @@
+EXPORTS
+    InstallHook
+    UninstallHook
+    ReInstallHook     ; 追加
