@@ -36,6 +36,6 @@ hide_all : false だと右クリック時のみで消えます。シフト＋右
 ### 動作画像
 | 元 | 右クリック | シフト+右クリック |
 |---|---|---|
-|![00](./00-original.png)  |![01](./01-rightclick.png)  | ![02](./02-shift-rightclick.png) |
+|![00](./doc/00-original.png)  |![01](./doc/01-rightclick.png)  | ![02](./doc/02-shift-rightclick.png) |
 
 
