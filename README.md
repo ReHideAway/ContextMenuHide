@@ -2,11 +2,13 @@
 [jp]
 * Windows 10 方式のエクスプローラの右クリックメニューから設定したメニューを非表示にします。
 * Windows 11 方式の新しい見た目の右クリックメニューには対応していません。
+* このツールは内部的には全てのメニューが作成された後に、表示直前に不要なメニューを表示しないだけです。
 * 右クリックメニューの高速化ではありません。高速化したい場合はいらないアプリのアンインストールやShellExtentionによる設定オフを薦めます。
 
 [en]
 * Hides the menu you configure from the right-click menu in Windows 10-style File Explorer.
 * Does not support the new-look right-click menu in Windows 11.
+* Internally, this tool simply prevents unnecessary menu items from being displayed just before the menu is shown, after all menu items have been created.
 * This does not speed up the right-click menu. If you want to speed it up, we recommend uninstalling unnecessary apps or disabling settings via ShellExtension.
 
 ### インストール方法 (Installation Instructions):
